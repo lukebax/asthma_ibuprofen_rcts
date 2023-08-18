@@ -1,1 +1,1 @@
-# asthma_ibuprofen_rcts
+This R project contains a scripts folder with the R script needed to generate the relevant forest plots. It also contains a data folder, which contains a readme explaining where to find the data to put in this data folder.
